@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/641084822.svg)](https://doi.org/10.5281/zenodo.15026004)
+
 Functions for processing BGC-Argo data:
 - Download raw data
 - Extract SST, SSS, depth of maximum chlorophyll
